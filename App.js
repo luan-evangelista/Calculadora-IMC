@@ -1,3 +1,4 @@
+// APP: CALCULADORA DE IMC
 import React, { Component } from 'react';
 import {
   StyleSheet,
